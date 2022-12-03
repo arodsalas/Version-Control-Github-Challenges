@@ -1,0 +1,3 @@
+1.) The terminal is a program that allows us to enter commands that the computer processes. It is also known as a text interface for our computer.
+2.) Git is a version control system that allows you to keep track of your code history. Github is a cloud-based service that allows you to control your Git repositories.
+3.) We use Github to collaborate and store our coding projects. It can be used as a networking website that allows developers to work together on code.
